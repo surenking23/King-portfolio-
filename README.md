@@ -4,57 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Suren's Portfolio</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background: #2c3e50;
-      color: #fff;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-    header p {
-      font-size: 1.2em;
-      margin-top: 10px;
-    }
-    section {
-      padding: 30px 20px;
-      max-width: 900px;
-      margin: auto;
-      background: #fff;
-      margin-top: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #2c3e50;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 5px;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 20px;
-    }
-    .project {
-      margin-bottom: 20px;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #2c3e50;
-      color: #fff;
-      margin-top: 40px;
-    }
-  </style>
 </head>
 <body>
   <header>
